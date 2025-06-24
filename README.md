@@ -28,19 +28,28 @@ To gain a better understanding of the elements influencing quote failure, the da
 
 The Primary objectives of this research are as follows
 •	To analyze customer behavior patterns employing past sales and quote information from an electrical company, with an emphasis on determining important behavioral markers that affect the results of quotations.
+
 •	To perform data preprocessing and feature engineering by categorizing data into meaningful groups such as customer behavior features, financial ratios, item features, manager and department-based features, and stock availability features.
+
 •	To apply feature selection techniques such as Chi-Square and Mutual Information to extract the most significant variables affecting quotation success.
+
 •	To develop predictive models using machine learning algorithms to forecast the likelihood of quotation acceptance or rejection.
+
 •	To evaluate the performance of the models and assess how well they work to enhance decision-making and sales forecasting.
+
 •	To provide actionable insights that can improve quotation success rates and optimize sales strategies for management and sales teams at organizations. 
 
 ## Limitations of The Study
 
 Although the study offers insightful information, there are certain restrictions:
 •	Data Specificity: Because the study is based on data from a single business, the findings may not be as applicable to other sectors or geographical areas.
+
 •	Feature Availability: The completeness and quality of the features that are accessible determine how accurate the forecasts are. The performance of the model may be impacted by missing or inconsistent data.
+
 •	Model Interpretability: Non-technical users may find it difficult to make decisions when using machine learning algorithms that have high accuracy but poor interpretability.
+
 •	Time Restrictions: Due to the study's time constraints, a comprehensive comparison analysis and model optimization with a variety of algorithms may not be possible.
+
 •	External Factors: The model might not take into consideration outside factors that could have an impact on consumer choices, such as market trends, competitive activity, or shifts in the economy.
 
 
